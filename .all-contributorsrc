@@ -1,0 +1,21 @@
+{
+  "projectName": "JS en Latam",
+  "projectOwner": "fforres",
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": true,
+  "contributors": [
+    {
+      "login": "fforres",
+      "name": "Felipe Torres (fforres)",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/952992?v=3",
+      "profile": "http://www.fforr.es",
+      "contributions": [
+        "question",
+        "doc"
+      ]
+    }
+  ]
+}
