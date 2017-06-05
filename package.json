@@ -1,0 +1,14 @@
+{
+  "name": "js-in-latam",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "init": "all-contributors init",
+    "add": "all-contributors add",
+    "generate": "all-contributors generate"
+  },
+  "dependencies": {
+    "all-contributors-cli": "^4.3.0"
+  }
+}
