@@ -438,7 +438,7 @@ Grilla CopyPasteable.
 Thanks goes to these wonderful people ([emoji key](https://github.com/kentcdodds/all-contributors#emoji-key)):
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
-| [<img src="https://avatars3.githubusercontent.com/u/952992?v=3" width="100px;"/><br /><sub>Felipe Torres (fforres)</sub>](http://www.fforr.es)<br />[💬](#question-fforres "Answering Questions") [📖](https://github.com/fforres/JS en Latam/commits?author=fforres "Documentation") |
+| [<img src="https://avatars3.githubusercontent.com/u/952992?v=3" width="100px;"/><br /><sub>Felipe Torres (fforres)</sub>](http://www.fforr.es)<br />[💬](#question-fforres "Answering Questions") [📖](https://github.com/fforres/javascript-en-latam/commits?author=fforres "Documentation") |
 | :---: |
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
